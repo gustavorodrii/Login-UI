@@ -1,4 +1,4 @@
-package com.example.loginui
+package com.loginui.auth
 
 import io.flutter.embedding.android.FlutterActivity
 
